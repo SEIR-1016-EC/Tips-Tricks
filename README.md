@@ -71,7 +71,6 @@ Read through the following. Write down five things that you learned from reading
 
 ## Help out everyone.
 
-- IA’s are often chosen by those who help other students a lot during class.
 - You can learn a lot about by asking questions about the code
 - Helping is not providing the solution, but asking questions and testing assumptions about the code
 
